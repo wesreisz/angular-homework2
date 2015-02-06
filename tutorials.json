@@ -40,5 +40,11 @@
 		title: 'AngularJS in 20ish Minutes ',
 		image: 'http://blog.guinatal.com/wp-content/uploads/2015/01/angularjs.png',
 		author: 'Dan Wahlin'
+	},
+	{
+		url: 'http://www.microsoftvirtualacademy.com/training-courses/introduction-to-angularjs',
+		title: 'Introduction to AngularJS',
+		image: 'https://irodriguezm.files.wordpress.com/2009/12/logo_mva.png',
+		author: ‘Microsoft Virtual Academy’
 	}	
 ]
